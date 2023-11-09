@@ -1,59 +1,57 @@
 # Security Policy
 ---
 
-# Kebijakan Keamanan Aplikasi
+# Application Security Policy
 
-## 1. Tujuan
+## 1. Purpose
 
-Kebijakan Keamanan ini bertujuan untuk menjaga integritas, kerahasiaan, dan ketersediaan data pada aplikasi AksaraJelajah. Kami berkomitmen untuk melindungi informasi sensitif dari risiko keamanan dan memastikan bahwa pengguna dapat menggunakan aplikasi AksaraJelajah dengan percaya diri.
+This Security Policy aims to maintain the integrity, confidentiality, and availability of data within the AksaraJelajah application. We are committed to safeguarding sensitive information from security risks and ensuring that users can confidently use the AksaraJelajah application.
 
-## 2. Tanggung Jawab
+## 2. Responsibilities
 
-### 2.1 Tim Keamanan
+### 2.1 Security Team
 
-Tim Keamanan bertanggung jawab untuk mengidentifikasi, mengevaluasi, dan mengatasi potensi ancaman keamanan terhadap aplikasi ini. Mereka juga akan memastikan bahwa tindakan pencegahan dan pemulihan tepat waktu diimplementasikan.
+The Security Team is responsible for identifying, evaluating, and addressing potential security threats to this application. They will also ensure that preventive measures and timely recovery actions are implemented.
 
-### 2.2 Pengguna
+### 2.2 Users
 
-Pengguna aplikasi diharapkan untuk:
-- Tidak berbagi informasi otentikasi atau kata sandi dengan orang lain.
-- Melakukan log out dari akun mereka setelah selesai menggunakan aplikasi.
-- Melaporkan segera jika mereka mencurigai aktivitas tidak sah atau mencurigakan pada akun mereka.
+Application users are expected to:
+- Not share authentication information or passwords with others.
+- Log out of their accounts after completing their use of the application.
+- Promptly report any suspicious or unauthorized activity on their accounts.
 
-## 3. Manajemen Identifikasi dan Akses
+## 3. Identification and Access Management
 
-### 3.1 Otentikasi
+### 3.1 Authentication
 
-Setiap pengguna harus melewati proses otentikasi yang kuat sebelum diizinkan mengakses aplikasi. Ini dapat mencakup penggunaan kombinasi kata sandi yang kuat, verifikasi dua faktor, atau metode otentikasi lainnya.
+Every user must go through a strong authentication process before being allowed access to the application. This may include the use of strong passwords, two-factor authentication, or other authentication methods.
 
-### 3.2 Otorisasi
+### 3.2 Authorization
 
-Hanya pengguna yang memiliki wewenang yang tepat yang dapat mengakses atau memodifikasi data dalam aplikasi. Setiap permintaan akses akan dievaluasi secara cermat dan diberikan sesuai dengan kebutuhan tugas.
+Only users with the appropriate authorization are allowed to access or modify data within the application. Each access request will be carefully evaluated and granted according to the task's needs.
 
-## 4. Pengelolaan Data
+## 4. Data Management
 
-### 4.1 Enkripsi
+### 4.1 Encryption
 
-Data sensitif akan dienkripsi dalam perjalanan dan saat disimpan di penyimpanan aplikasi. Ini akan membantu melindungi informasi dari akses yang tidak sah atau penggunaan yang tidak sah.
+Sensitive data will be encrypted in transit and when stored in the application's storage. This will help protect information from unauthorized access or misuse.
 
-### 4.2 Penghapusan Data
+### 4.2 Data Deletion
 
-Data yang tidak lagi diperlukan akan dihapus secara teratur sesuai dengan kebijakan retensi data kami untuk mengurangi risiko akses yang tidak sah.
+Data that is no longer needed will be regularly deleted in accordance with our data retention policy to reduce the risk of unauthorized access.
 
-## 5. Monitoring dan Deteksi Ancaman
+## 5. Threat Monitoring and Detection
 
-Kami akan memantau aktivitas aplikasi secara teratur untuk mendeteksi dan mengatasi potensi ancaman keamanan. Tindakan pencegahan dan pemulihan akan diambil jika terjadi insiden keamanan.
+We will regularly monitor application activity to detect and address potential security threats. Preventive and recovery actions will be taken if a security incident occurs.
 
-## 6. Pembaruan dan Evaluasi Keamanan
+## 6. Security Updates and Evaluation
 
-Aplikasi dan infrastruktur terkait akan diperbarui secara berkala untuk mengatasi kerentanan keamanan yang baru teridentifikasi. Evaluasi keamanan akan dilakukan secara rutin untuk memastikan bahwa aplikasi tetap aman.
+The application and related infrastructure will be periodically updated to address newly identified security vulnerabilities. Security evaluations will be conducted regularly to ensure that the application remains secure.
 
-## 7. Kepatuhan Hukum dan Regulasi
+## 7. Legal and Regulatory Compliance
 
-Kebijakan keamanan ini akan mematuhi semua hukum dan regulasi yang berlaku terkait keamanan data dan privasi pengguna.
+This security policy will comply with all relevant laws and regulations regarding data security and user privacy.
 
-## 8. Kontak Darurat
+## 8. Emergency Contact
 
-Pengguna dapat menghubungi tim dukungan keamanan kami melalui @angelaahmad732@gmail.com dalam kasus keadaan darurat terkait keamanan.
-
----
+Users can contact our security support team at @angelaahmad732@gmail.com in case of emergency situations related to security.
