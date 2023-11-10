@@ -2,7 +2,7 @@
 <p align="Center">
   <img src="https://github.com/Kampus-Merdeka-Software-Engineering/FE-2-Surabaya-2/blob/main/Picture%20for%20Project/New%20Logo%20Drive2Go.gif"  width="500px" height="200px">
 <p align="justify">
-AksaraJelajah is an innovative web platform that provides convenience and speed in ticket booking. AksaraJelajah's primary focus is to offer a seamless user experience, allowing users to comfortably search for and book tickets for trips to various destinations. AksaraJelajah is the top choice for those seeking a practical way to plan their vacations. We are the Grup 2 Section Surabaya RevoU MSIB KM AUG23 team, take pride in developing and building this platform with the aim of providing high-quality service to users.
+AksaraJelajah is an innovative web platform that provides convenience and speed in ticket booking. AksaraJelajah's primary focus is to offer a seamless user experience, allowing users to comfortably search for and book tickets for trips to various destinations. AksaraJelajah is the top choice for those seeking a practical way to plan their vacations. We are the Grup 2 Section Surabaya RevoU MSIB KM AUG23 team, take pride in developing and building this platform with the aim of providing high-quality service to users. Thank you
 
 ## 🖥 Technology Used
 
