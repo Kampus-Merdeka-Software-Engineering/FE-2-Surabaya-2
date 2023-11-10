@@ -198,22 +198,3 @@ header{
     background: var(--gradient);
     color: #fff;
 }
-.about-container{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    margin-top: 2rem;
-    align-items: center;
-    gap: 1rem
-    margin-top: 1rem;
-}
-.about-img img{
-    width: 100%
-}
-.about-text span{
-    font-weight: 500;
-    color: var(--main-color);
-    text-transform: uppercase;
-}
-.about-text p{
-    margin: 0.5rem 0 1.4rem;
-}
