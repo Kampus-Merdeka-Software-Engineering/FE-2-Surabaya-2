@@ -3,7 +3,7 @@
   <img src="https://github.com/Kampus-Merdeka-Software-Engineering/FE-2-Surabaya-2/blob/main/Logo/New%20Logo%20Drive2Go.gif"  width="500px" height="200px">
 <p>Welcome to Drive2Go, an innovative web platform that offers convenience and speed in car rental bookings. Drive2Go allows you to easily and quickly discover and rent vehicles, eliminating the complexities in the booking process. Our fleet comprises various types of vehicles, ranging from comfortable sedans to spacious family cars and specialized vehicles for adventures in the great outdoors. Every vehicle in our fleet undergoes rigorous inspections to ensure optimal safety and operational fitness.</p>
 <P>Discover the freedom to move and enjoy your journey with Drive2Go. Turn every moment of your journey into an extraordinary experience, and let's explore the world with your dream car. Save time and savor your journey - because every kilometer is an adventure.</P>
-<p>We are the team at Group 2 Section Surabaya RevoU MSIB KM AUG23, take pride in developing and building this platform with the goal of providing high-quality services to users.</p>
+<p>We are the team at Group 2 Section Surabaya RevoU MSIB KM AUG23, take pride in developing and building this platform with the goal of providing high-quality services to users. Thank You</p>
 
 
 ## 🖥 Technology Used
