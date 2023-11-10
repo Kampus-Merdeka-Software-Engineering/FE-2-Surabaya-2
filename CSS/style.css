@@ -198,3 +198,7 @@ header{
     background: var(--gradient);
     color: #fff;
 }
+.about-container{
+    display: grid;
+    
+}
