@@ -20,6 +20,6 @@ AksaraJelajah is an innovative web platform that provides convenience and speed 
 | Angela Ahmad Ibadi     | Project Leader & Backend Engineer            |
 | Dita Arini Ambarita    | Frontend Engineer                            |
 | Riska Siti Fatimah     | Frontend Engineer                            |
-| Willy Agcely Heza      | Backend Engineer                             |
-| Surya Buana Yuda       | Quality Assurance                            |
 | Syifa Almahdhori       | Frontend Engineer & Quality Assurance        |
+| Willy Agcely Heza      | Quality Assurance                            |
+| Surya Buana Yuda       | Quality Assurance                            |
